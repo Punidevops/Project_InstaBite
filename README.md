@@ -134,9 +134,9 @@ Application is deployed on Apache Tomcat server hosted on AWS EC2. Jenkins autom
 
 **Author:** Puneeth B N  
 **Role:** DevOps Engineer (Fresher)  
-**Email:** puneethbn@example.com  
-**GitHub:** github.com/yourusername  
-**LinkedIn:** linkedin.com/in/puneethbn
+**Email:** bnpuni3@gmail.com  
+**GitHub:** [github.com/Punidevops]
+**LinkedIn:** [linkedin.com/in/puneeth-bn02]
 
 ## License
 
