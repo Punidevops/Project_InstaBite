@@ -135,9 +135,6 @@ Application is deployed on Apache Tomcat server hosted on AWS EC2. Jenkins autom
 **Author:** Puneeth B N  
 **Role:** DevOps Engineer (Fresher)  
 **Email:** bnpuni3@gmail.com  
-**GitHub:** [github.com/Punidevops]
-**LinkedIn:** [linkedin.com/in/puneeth-bn02]
-
 ## License
 
 MIT License – Feel free to use this project for learning and development purposes.
